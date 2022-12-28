@@ -17,7 +17,7 @@ Project is created with:
 ## Setup
 To get started with this project, clone the repository
 ```
-git clone https://github.com/[username]/codecoolshop.git
+git clone https://github.com/DinuOctavian1/codecoolshop.git
 ```
 
 Next, you'll need to set up the database. This project uses ASP .NET Core Entity, so you'll need to run the following commands to create the necessary tables:
